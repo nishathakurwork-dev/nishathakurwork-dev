@@ -70,9 +70,9 @@
   <g font-family="Segoe UI,Helvetica Neue,Arial,sans-serif">
     <g>
       <rect x="60" y="252" width="152" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
-      <text x="76" y="277" font-size="19" font-weight="700" fill="#c9a063">5+</text>
-      <text x="106" y="276" font-size="10.5" fill="#8fa6c2" letter-spacing="1">YEARS</text>
-      <text x="106" y="288" font-size="10.5" fill="#8fa6c2" letter-spacing="1">EXPERIENCE</text>
+      <text x="76" y="277" font-size="19" font-weight="700" fill="#c9a063">4.5+</text>
+      <text x="122" y="276" font-size="10.5" fill="#8fa6c2" letter-spacing="1">YEARS</text>
+      <text x="122" y="288" font-size="10.5" fill="#8fa6c2" letter-spacing="1">EXPERIENCE</text>
     </g>
     <g>
       <rect x="224" y="252" width="152" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
