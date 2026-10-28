@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430"
+     role="img" aria-label="About Nisha Thakur and core skill levels">
+  <title>whoami - Nisha Thakur</title>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0a2444"/>
+      <stop offset="100%" stop-color="#071b35"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#1c4f86"/>
+      <stop offset="100%" stop-color="#c9a063"/>
+    </linearGradient>
+    <pattern id="grid2" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1c4f86" stroke-width="1" stroke-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="430" rx="14" fill="url(#panel)"/>
+  <rect width="1000" height="430" rx="14" fill="url(#grid2)"/>
+
+  <!-- window chrome -->
+  <path d="M0 14a14 14 0 0 1 14-14h972a14 14 0 0 1 14 14v26H0z" fill="#061427"/>
+  <circle cx="26" cy="20" r="5.5" fill="#ff5f57"/>
+  <circle cx="46" cy="20" r="5.5" fill="#febc2e"/>
+  <circle cx="66" cy="20" r="5.5" fill="#28c840"/>
+  <text x="500" y="25" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+        font-size="12.5" fill="#7b94b4" letter-spacing="1">nisha@portfolio: ~</text>
+
+  <!-- divider -->
+  <line x1="516" y1="68" x2="516" y2="398" stroke="#1c4f86" stroke-opacity="0.45"/>
+
+  <!-- ================= left: whoami ================= -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="44" y="88" font-size="14" fill="#4ade80">$ <tspan fill="#ffffff">whoami</tspan></text>
+
+    <g font-size="13.5">
+      <text x="44" y="130"><tspan fill="#c9a063">name</tspan><tspan fill="#53708f">   : </tspan><tspan fill="#e6edf6">Nisha Thakur</tspan></text>
+      <text x="44" y="162"><tspan fill="#c9a063">role</tspan><tspan fill="#53708f">   : </tspan><tspan fill="#e6edf6">Full Stack Developer</tspan></text>
+      <text x="44" y="194"><tspan fill="#c9a063">at</tspan><tspan fill="#53708f">     : </tspan><tspan fill="#e6edf6">Tech Prastish Software Solutions</tspan></text>
+      <text x="44" y="226"><tspan fill="#c9a063">focus</tspan><tspan fill="#53708f">  : </tspan><tspan fill="#e6edf6">E-commerce &amp; business websites</tspan></text>
+      <text x="44" y="258"><tspan fill="#c9a063">stack</tspan><tspan fill="#53708f">  : </tspan><tspan fill="#e6edf6">PHP &#183; Laravel &#183; MySQL &#183; JS</tspan></text>
+      <text x="44" y="290"><tspan fill="#c9a063">based</tspan><tspan fill="#53708f">  : </tspan><tspan fill="#e6edf6">Mohali, Punjab, India</tspan></text>
+      <text x="44" y="322"><tspan fill="#c9a063">ships</tspan><tspan fill="#53708f">  : </tspan><tspan fill="#e6edf6">30+ live client projects</tspan></text>
+      <text x="44" y="354"><tspan fill="#c9a063">ai</tspan><tspan fill="#53708f">     : </tspan><tspan fill="#e6edf6">Claude &#183; Copilot &#183; Cursor</tspan></text>
+    </g>
+
+    <text x="44" y="392" font-size="14" fill="#4ade80">$ <tspan fill="#8fa6c2">_</tspan>
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- ================= right: power levels ================= -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="556" y="88" font-size="13" fill="#c9a063" letter-spacing="3.5">POWER LEVELS</text>
+
+    <!-- WordPress / WooCommerce -->
+    <text x="556" y="126" font-size="12.5" fill="#e6edf6">WordPress / WooCommerce</text>
+    <text x="940" y="126" font-size="11.5" fill="#7b94b4" text-anchor="end">expert</text>
+    <rect x="556" y="134" width="384" height="7" rx="3.5" fill="#0f3160"/>
+    <rect x="556" y="134" width="365" height="7" rx="3.5" fill="url(#bar)"/>
+
+    <!-- Shopify / BigCommerce -->
+    <text x="556" y="176" font-size="12.5" fill="#e6edf6">Shopify / BigCommerce</text>
+    <text x="940" y="176" font-size="11.5" fill="#7b94b4" text-anchor="end">advanced</text>
+    <rect x="556" y="184" width="384" height="7" rx="3.5" fill="#0f3160"/>
+    <rect x="556" y="184" width="330" height="7" rx="3.5" fill="url(#bar)"/>
+
+    <!-- PHP / Laravel -->
+    <text x="556" y="226" font-size="12.5" fill="#e6edf6">PHP / Laravel</text>
+    <text x="940" y="226" font-size="11.5" fill="#7b94b4" text-anchor="end">advanced</text>
+    <rect x="556" y="234" width="384" height="7" rx="3.5" fill="#0f3160"/>
+    <rect x="556" y="234" width="326" height="7" rx="3.5" fill="url(#bar)"/>
+
+    <!-- JavaScript / jQuery -->
+    <text x="556" y="276" font-size="12.5" fill="#e6edf6">JavaScript / jQuery</text>
+    <text x="940" y="276" font-size="11.5" fill="#7b94b4" text-anchor="end">strong</text>
+    <rect x="556" y="284" width="384" height="7" rx="3.5" fill="#0f3160"/>
+    <rect x="556" y="284" width="296" height="7" rx="3.5" fill="url(#bar)"/>
+
+    <!-- HTML / CSS / Bootstrap -->
+    <text x="556" y="326" font-size="12.5" fill="#e6edf6">HTML / CSS / Bootstrap</text>
+    <text x="940" y="326" font-size="11.5" fill="#7b94b4" text-anchor="end">expert</text>
+    <rect x="556" y="334" width="384" height="7" rx="3.5" fill="#0f3160"/>
+    <rect x="556" y="334" width="357" height="7" rx="3.5" fill="url(#bar)"/>
+
+    <!-- MySQL -->
+    <text x="556" y="376" font-size="12.5" fill="#e6edf6">MySQL</text>
+    <text x="940" y="376" font-size="11.5" fill="#7b94b4" text-anchor="end">strong</text>
+    <rect x="556" y="384" width="384" height="7" rx="3.5" fill="#0f3160"/>
+    <rect x="556" y="384" width="288" height="7" rx="3.5" fill="url(#bar)"/>
+  </g>
+</svg>

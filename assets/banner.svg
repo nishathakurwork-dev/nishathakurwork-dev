@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320"
+     role="img" aria-label="Nisha Thakur - Full Stack Developer">
+  <title>Nisha Thakur - Full Stack Developer</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#071b35"/>
+      <stop offset="55%"  stop-color="#0c2b51"/>
+      <stop offset="100%" stop-color="#061427"/>
+    </linearGradient>
+
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#c9a063"/>
+      <stop offset="100%" stop-color="#ae8543"/>
+    </linearGradient>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#ae8543" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#c9a063" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ae8543" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c4f86" stroke-width="1" stroke-opacity="0.25"/>
+    </pattern>
+
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#1c4f86" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1c4f86" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="1000" height="320" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="320" rx="14" fill="url(#grid)"/>
+  <circle cx="845" cy="160" r="150" fill="url(#halo)"/>
+
+  <!-- corner brackets -->
+  <path d="M22 54V26h28"      fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M978 54V26h-28"    fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 266v28h28"     fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M978 266v28h-28"   fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- status bar -->
+  <text x="60" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+        font-size="13" fill="#7b94b4" letter-spacing="1.5">nishathakurwork-dev / README.md</text>
+
+  <g>
+    <circle cx="820" cy="47" r="4" fill="#4ade80">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="834" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="12" fill="#4ade80" letter-spacing="2">OPEN TO WORK</text>
+  </g>
+
+  <!-- identity -->
+  <text x="60" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+        font-size="13" fill="#c9a063" letter-spacing="5">HELLO, I AM</text>
+
+  <text x="58" y="172" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif"
+        font-size="60" font-weight="700" fill="#ffffff" letter-spacing="1">NISHA THAKUR</text>
+
+  <text x="60" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+        font-size="19" font-weight="600" fill="#c9a063" letter-spacing="2">// FULL STACK DEVELOPER</text>
+
+  <text x="60" y="232" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif"
+        font-size="13.5" fill="#8fa6c2">WordPress &#183; WooCommerce &#183; Shopify &#183; BigCommerce &#183; PHP &#183; Laravel</text>
+
+  <!-- stat chips -->
+  <g font-family="Segoe UI,Helvetica Neue,Arial,sans-serif">
+    <g>
+      <rect x="60" y="252" width="152" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
+      <text x="76" y="277" font-size="19" font-weight="700" fill="#c9a063">5+</text>
+      <text x="106" y="276" font-size="10.5" fill="#8fa6c2" letter-spacing="1">YEARS</text>
+      <text x="106" y="288" font-size="10.5" fill="#8fa6c2" letter-spacing="1">EXPERIENCE</text>
+    </g>
+    <g>
+      <rect x="224" y="252" width="152" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
+      <text x="240" y="277" font-size="19" font-weight="700" fill="#c9a063">30+</text>
+      <text x="278" y="276" font-size="10.5" fill="#8fa6c2" letter-spacing="1">LIVE</text>
+      <text x="278" y="288" font-size="10.5" fill="#8fa6c2" letter-spacing="1">PROJECTS</text>
+    </g>
+    <g>
+      <rect x="388" y="252" width="152" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
+      <text x="404" y="277" font-size="19" font-weight="700" fill="#c9a063">5</text>
+      <text x="424" y="276" font-size="10.5" fill="#8fa6c2" letter-spacing="1">E-COMMERCE</text>
+      <text x="424" y="288" font-size="10.5" fill="#8fa6c2" letter-spacing="1">PLATFORMS</text>
+    </g>
+    <g>
+      <rect x="552" y="252" width="152" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
+      <text x="568" y="277" font-size="16" font-weight="700" fill="#c9a063">USA / CA</text>
+      <text x="568" y="290" font-size="10.5" fill="#8fa6c2" letter-spacing="1">CLIENTS SERVED</text>
+    </g>
+  </g>
+
+  <!-- monogram -->
+  <g transform="translate(845,160)">
+    <circle r="74" fill="none" stroke="#1c4f86" stroke-width="1.5" stroke-opacity="0.8"/>
+    <circle r="58" fill="none" stroke="#ae8543" stroke-width="1" stroke-opacity="0.5"
+            stroke-dasharray="4 7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360"
+                        dur="26s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="42" fill="#0c2b51" stroke="#c9a063" stroke-width="1.5"/>
+    <text y="13" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif"
+          font-size="34" font-weight="700" fill="#c9a063" letter-spacing="1">NT</text>
+    <g>
+      <circle cx="74" cy="0" r="4" fill="#c9a063"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360"
+                        dur="14s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="-74" cy="0" r="3" fill="#4ade80"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360"
+                        dur="19s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- sweep -->
+  <rect x="60" y="188" width="300" height="1.5" fill="url(#fade)" opacity="0.8">
+    <animate attributeName="width" values="120;300;120" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
