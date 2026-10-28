@@ -87,8 +87,8 @@
       <text x="424" y="288" font-size="10.5" fill="#8fa6c2" letter-spacing="1">PLATFORMS</text>
     </g>
     <g>
-      <rect x="552" y="252" width="152" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
-      <text x="568" y="277" font-size="16" font-weight="700" fill="#c9a063">USA / CA</text>
+      <rect x="552" y="252" width="178" height="44" rx="8" fill="#0f3160" stroke="#1c4f86"/>
+      <text x="568" y="277" font-size="16" font-weight="700" fill="#c9a063">USA / CA / IN</text>
       <text x="568" y="290" font-size="10.5" fill="#8fa6c2" letter-spacing="1">CLIENTS SERVED</text>
     </g>
   </g>
